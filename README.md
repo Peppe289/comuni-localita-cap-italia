@@ -1,4 +1,4 @@
-##DATABASE LOCALITÀ COMUNI E CAP ITALIAN IN FORMATO CSV, EXCEL FREE DOWNLOAD
+DATABASE LOCALITÀ COMUNI E CAP ITALIAN IN FORMATO CSV, EXCEL FREE DOWNLOAD
 
 L’archivio completo di tutti i CAP dei 7000 comuni italiani con località, comuni, province e regioni.
 
